@@ -1,0 +1,6 @@
+程序使用说明（没有算法）
+
+模糊综合评价数据准备：原始数据 
+
+路径和文件名要求：在original_data.xls中编写数据，original_data.xls不能更改；
+original_data与factor_analysis.m放在同一路径下。

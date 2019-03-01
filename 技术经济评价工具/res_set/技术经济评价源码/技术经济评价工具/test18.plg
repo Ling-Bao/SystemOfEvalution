@@ -1,0 +1,72 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: test18 - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\Users\ADMINI~1\AppData\Local\Temp\RSP3A92.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /FR"Debug/" /Fp"Debug/test18.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"F:\技术经济评价工具\test18.cpp"
+"F:\技术经济评价工具\test18Dlg.cpp"
+]
+Creating command line "cl.exe @C:\Users\ADMINI~1\AppData\Local\Temp\RSP3A92.tmp" 
+Creating command line "link.exe /nologo /subsystem:windows /incremental:yes /pdb:"Debug/test18.pdb" /debug /machine:I386 /out:"Debug/test18.exe" /pdbtype:sept  ".\Debug\StdAfx.obj" ".\Debug\test18.obj" ".\Debug\test18Dlg.obj" ".\Debug\test18.res" "
+<h3>Output Window</h3>
+Compiling...
+test18Dlg.cpp
+f:\技术经济评价工具\weight.h(1585) : warning C4305: '=' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(1971) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+f:\技术经济评价工具\weight.h(1986) : warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2012) : warning C4305: 'initializing' : truncation from 'const double' to 'float'
+f:\技术经济评价工具\weight.h(2017) : warning C4101: 'flag' : unreferenced local variable
+f:\技术经济评价工具\weight.h(2017) : warning C4101: 'flag0' : unreferenced local variable
+F:\技术经济评价工具\test18Dlg.cpp(395) : warning C4390: ';' : empty controlled statement found; is this the intent?
+F:\技术经济评价工具\test18Dlg.cpp(455) : warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(495) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(515) : warning C4129: '/' : unrecognized character escape sequence
+F:\技术经济评价工具\test18Dlg.cpp(533) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(538) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(541) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(544) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(547) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(548) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(611) : warning C4390: ';' : empty controlled statement found; is this the intent?
+F:\技术经济评价工具\test18Dlg.cpp(671) : warning C4244: 'initializing' : conversion from 'long' to 'float', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(711) : warning C4244: 'initializing' : conversion from 'double' to 'float', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(731) : warning C4129: '/' : unrecognized character escape sequence
+F:\技术经济评价工具\test18Dlg.cpp(749) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(754) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(757) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(760) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(763) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+F:\技术经济评价工具\test18Dlg.cpp(764) : warning C4244: '=' : conversion from 'float' to 'long', possible loss of data
+Generating Code...
+Skipping... (no relevant changes detected)
+test18.cpp
+Linking...
+Creating command line "bscmake.exe /nologo /o"Debug/test18.bsc"  ".\Debug\StdAfx.sbr" ".\Debug\test18.sbr" ".\Debug\test18Dlg.sbr""
+Creating browse info file...
+<h3>Output Window</h3>
+
+
+
+<h3>Results</h3>
+test18.exe - 0 error(s), 0 warning(s)
+</pre>
+</body>
+</html>
